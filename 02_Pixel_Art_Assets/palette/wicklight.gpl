@@ -1,0 +1,20 @@
+GIMP Palette
+Name: WICKLIGHT
+Columns: 4
+#
+ 27  20  35	Outline
+ 36  30  51	Cave Dark
+ 51  41  74	Cave Rock
+ 63  74  94	Stone Dark
+ 94 107 128	Stone
+139 152 168	Stone Light
+243 230 200	Candle
+205 179 140	Candle Shadow
+194  64  58	Flame Red
+240 138  60	Flame Orange
+255 211  92	Flame Yellow
+255 247 217	Flame White
+122  95 168	Moth Purple
+201 182 240	Moth Wing
+107  68  48	Wood
+160 106  63	Wood Light

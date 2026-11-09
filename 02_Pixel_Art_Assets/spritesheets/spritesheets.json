@@ -1,0 +1,88 @@
+{
+  "frame_size_note": "All frames are 16x16, except the door (16x32).",
+  "animations": {
+    "candle_idle": {
+      "file": "candle_idle_strip2.png",
+      "frame_width": 16,
+      "frame_height": 16,
+      "frames": 2,
+      "fps": 3
+    },
+    "candle_walk": {
+      "file": "candle_walk_strip4.png",
+      "frame_width": 16,
+      "frame_height": 16,
+      "frames": 4,
+      "fps": 8
+    },
+    "candle_jump": {
+      "file": "candle_jump_strip1.png",
+      "frame_width": 16,
+      "frame_height": 16,
+      "frames": 1,
+      "fps": 1
+    },
+    "ember": {
+      "file": "ember_strip2.png",
+      "frame_width": 16,
+      "frame_height": 16,
+      "frames": 2,
+      "fps": 4
+    },
+    "moth": {
+      "file": "moth_strip2.png",
+      "frame_width": 16,
+      "frame_height": 16,
+      "frames": 2,
+      "fps": 6
+    },
+    "door": {
+      "file": "door_strip2.png",
+      "frame_width": 16,
+      "frame_height": 32,
+      "frames": 2,
+      "fps": 1
+    }
+  },
+  "combined_sheet": {
+    "file": "wicklight_spritesheet.png",
+    "rows": {
+      "candle_idle": {
+        "y": 0,
+        "frames": 2,
+        "frame_width": 16,
+        "frame_height": 16
+      },
+      "candle_walk": {
+        "y": 16,
+        "frames": 4,
+        "frame_width": 16,
+        "frame_height": 16
+      },
+      "candle_jump": {
+        "y": 32,
+        "frames": 1,
+        "frame_width": 16,
+        "frame_height": 16
+      },
+      "ember": {
+        "y": 48,
+        "frames": 2,
+        "frame_width": 16,
+        "frame_height": 16
+      },
+      "moth": {
+        "y": 64,
+        "frames": 2,
+        "frame_width": 16,
+        "frame_height": 16
+      },
+      "door": {
+        "y": 80,
+        "frames": 2,
+        "frame_width": 16,
+        "frame_height": 32
+      }
+    }
+  }
+}
